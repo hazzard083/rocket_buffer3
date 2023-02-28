@@ -1,0 +1,7 @@
+<meta>
+  <info author="Hazazrd" version="1.0.0" name="name" type="script"/>
+  
+  <script src="src/utils/utils.lua" type="shared"/>
+  <script src="src/core/main.lua" type="client"/>
+  <script src="src/core/listener.lua" type="client"/>
+</meta>
