@@ -1,5 +1,5 @@
 <meta>
-  <info author="Hazazrd" version="1.0.0" name="name" type="script"/>
+  <info author="Hazazrd" version="1.0.0" name="Login" type="script"/>
   
   <script src="src/utils/utils.lua" type="shared"/>
   <script src="src/core/main.lua" type="client"/>
