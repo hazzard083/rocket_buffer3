@@ -13,7 +13,9 @@
 
 ### 📁 Save Data
 
-1. Salvar usuário, email e senha.
+1. Usuário
+2. Email
+3. Senha
 
 ### ⚙️ Comandos
 
